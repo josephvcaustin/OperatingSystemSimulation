@@ -1,5 +1,5 @@
 # OperatingSystemSimulation
-This repository hosts the code developed for the simulation of a rudimentary operating system. The assignment was developed to help develop a better understanding of schedulers, queues, job processing, and resource allocation.
+This repository hosts code for the simulation of a rudimentary operating system. The assignment was designed to help develop a better understanding of schedulers, queues, job processing, and resource allocation.
 
 Phase 1 of the project involved developing a series of objects to:
 1) Read job information from a text file (job ID, memory allocation requirements, and CPU burst times)
